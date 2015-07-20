@@ -3,6 +3,6 @@ published: true
 title: Hi
 layout: post
 ---
-blalalalblalall
-blalal
-bla bla blaaaa
+*** blalalalblalall
+* blalal
+* bla bla blaaaa
