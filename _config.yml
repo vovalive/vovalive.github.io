@@ -18,7 +18,8 @@ github_username: "vovalive"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+#theme: "minima"
+theme: "hacked-jekyll"
 
 rss: rss
 
